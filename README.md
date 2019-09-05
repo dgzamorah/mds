@@ -1,5 +1,5 @@
 # Herramientas de apoyo CD
-# ***Instrucciones de instalación herramientas integración***
+# ***Instrucciones de configuración***
 Septiembre 2019
 # Contenido
 [RECURSOS](#RECURSOS)
